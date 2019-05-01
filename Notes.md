@@ -6,3 +6,6 @@
 # 一些教程：
 * http://www.runoob.com/git/git-tutorial.html
 * https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
+
+# md文件的编写规则
+* https://www.cnblogs.com/shiy/p/6526868.html
